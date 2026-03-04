@@ -1,4 +1,4 @@
-# TP – Séance 4 : From App to Production
+#  From App to Production
 ## Fraud Detection API – Deploy, Automate, Retrain
 
 **Tools:** GitHub · Docker · Render · Vercel · GitHub Actions · Apache Airflow
